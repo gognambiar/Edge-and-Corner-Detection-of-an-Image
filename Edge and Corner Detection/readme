@@ -1,0 +1,4 @@
+Implementation of function to perform a simple filter on an Image, Edge detecion on an Image using Canny Edge Detection Algorithm
+and Corner Detection on an Image using Harris Corner Detection.
+
+Implemented using Octave-Matlab
